@@ -70,22 +70,40 @@ INSERT INTO DEPT (DEPTNO, DNAME, LOC) VALUES (40, 'OPERATIONS', 'BOSTON');
 
 ### QUERY:
 
+![image](https://github.com/Revathi-Dayalan/EX-3-SubQueries-Views-and-Joins/assets/96000574/8f4e8115-8355-4aa0-a930-f64e6430b27e)
+
+
 
 ### OUTPUT:
+
+![image](https://github.com/Revathi-Dayalan/EX-3-SubQueries-Views-and-Joins/assets/96000574/11a5bead-bfc0-45cd-a0be-6002236e6539)
+
 
 ### Q2) List the ename,job,sal of the employee who get minimum salary in the company.
 
 ### QUERY:
 
+![image](https://github.com/Revathi-Dayalan/EX-3-SubQueries-Views-and-Joins/assets/96000574/47dbfa05-7eeb-40a2-947c-0e18fd6d87cb)
+
+
 
 ### OUTPUT:
+
+
+
+![image](https://github.com/Revathi-Dayalan/EX-3-SubQueries-Views-and-Joins/assets/96000574/a3a70b81-eee9-4b5e-aed8-583b2f509f08)
+
 
 ### Q3) List ename, job of the employees who work in deptno 10 and his/her job is any one of the job in the department ‘SALES’.
 
 ### QUERY:
 
 
+![image](https://github.com/Revathi-Dayalan/EX-3-SubQueries-Views-and-Joins/assets/96000574/6adce98b-e160-484c-8bbc-52c2227f89c1)
+
 ### OUTPUT:
+
+![image](https://github.com/Thenmozhi-Palanisamy/EX-3-SubQueries-Views-and-Joins/assets/95198708/c4e13ecb-1142-4e66-924c-46f38c457ad0)
 
 
 ### Q4) Create a view empv5 (for the table emp) that contains empno, ename, job of the employees who work in dept 10.
@@ -93,7 +111,12 @@ INSERT INTO DEPT (DEPTNO, DNAME, LOC) VALUES (40, 'OPERATIONS', 'BOSTON');
 ### QUERY:
 
 
+![image](https://github.com/Revathi-Dayalan/EX-3-SubQueries-Views-and-Joins/assets/96000574/c28479a0-9a8c-45b1-af8c-9139cde2f7f6)
+
 ### OUTPUT:
+
+![image](https://github.com/Revathi-Dayalan/EX-3-SubQueries-Views-and-Joins/assets/96000574/713df257-d6dc-41bc-8190-642fe89398c5)
+
 
 ### Q5) Create a view with column aliases empv30 that contains empno, ename, sal of the employees who work in dept 30. Also display the contents of the view.
 
@@ -106,8 +129,14 @@ INSERT INTO DEPT (DEPTNO, DNAME, LOC) VALUES (40, 'OPERATIONS', 'BOSTON');
 
 ### QUERY:
 
+![image](https://github.com/Revathi-Dayalan/EX-3-SubQueries-Views-and-Joins/assets/96000574/ca66ed38-51cf-4f0b-b54f-382dbcac65a7)
+
+
 
 ### OUTPUT:
+
+![image](https://github.com/Revathi-Dayalan/EX-3-SubQueries-Views-and-Joins/assets/96000574/69e52fb1-2af2-41e3-a33b-6d52d3d4aa98)
+
 
 ## Create a Customer1 Table
 ```sql
@@ -141,27 +170,55 @@ INSERT INTO Salesman1 (salesman_id, name, city, commission) VALUES(5003, 'Lauson
 
 ### QUERY:
 
+![image](https://github.com/Revathi-Dayalan/EX-3-SubQueries-Views-and-Joins/assets/96000574/093e0a60-3b90-4bf4-bd84-7ec9b90930df)
+
 
 ### OUTPUT:
+
+![image](https://github.com/Revathi-Dayalan/EX-3-SubQueries-Views-and-Joins/assets/96000574/5fa69ad1-b3bd-4b38-8c0a-00c612c160f6)
+
 
 ### Q8) Write a SQL query to find salespeople who received commissions of more than 13 percent from the company. Return Customer Name, customer city, Salesman, commission.
 
 
 ### QUERY:
 
+![image](https://github.com/Revathi-Dayalan/EX-3-SubQueries-Views-and-Joins/assets/96000574/cd137f5d-e2ae-430b-bd3e-6d8798f0174d)
+
 
 ### OUTPUT:
+
+![image](https://github.com/Revathi-Dayalan/EX-3-SubQueries-Views-and-Joins/assets/96000574/b5af7af5-f063-4715-b2a8-5d61f85f7744)
+
 
 ### Q9) Perform Natural join on both tables
 
 ### QUERY:
 
+![image](https://github.com/Revathi-Dayalan/EX-3-SubQueries-Views-and-Joins/assets/96000574/1cb35ac9-4c0d-41e2-b6be-3ca22a0f294e)
+
+
 
 ### OUTPUT:
+
+![image](https://github.com/Revathi-Dayalan/EX-3-SubQueries-Views-and-Joins/assets/96000574/af16725c-1fba-40a3-9f6e-2ecf056e639e)
+
 
 ### Q10) Perform Left and right join on both tables
 
 ### QUERY:
+Left Join:
+
+![image](https://github.com/Revathi-Dayalan/EX-3-SubQueries-Views-and-Joins/assets/96000574/d51fc058-e040-4149-b24c-50e07f772e1e)
+
+
 
 
 ### OUTPUT:
+
+![image](https://github.com/Thenmozhi-Palanisamy/EX-3-SubQueries-Views-and-Joins/assets/95198708/fccf9c12-1e7a-404e-ba54-103aad0c16ee)
+
+
+## RESULT:
+
+Thus the  SubQueries, Views and Joins are done successfully.
